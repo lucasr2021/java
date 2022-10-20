@@ -17,26 +17,26 @@ exemplos sugeridos para nomclatura de métodos:
 somar (int n1, int n2){
 
 }
-===============================================
+=
 
 abrirConexao(){
 
 }
-===============================================
+=
 
 concluirProcessamento(){
 
 }
-===============================================
+=
 
 findById(int id){
 
 }
-===============================================
+=
 calcularImprimir(){ // Há algo de errado nete metodo, ele deveria ter uma única responsabilidade: Calcular ou imprimir.
 
 }
-===============================================
+=
 Em java não existe o conceito de métods globais. Todos os métdos devem ser definidos dentro de uma classe.
 # criterios de definição de métodos
 Mas, como saber a melhor forma de definir os métodos das nossas classes? para chegar à essa conclusão, somos auxiliados por
@@ -61,18 +61,18 @@ public double somar(int num1, int num2){
     //logica finalidade do método
     return ...;
 }
-===============================================
+=
 2.
 public void imprimir (String texto){
     //logica finalidade do método
     //Aqui nãoprecisa do returns
     //pois não será retornado nada
-===============================================
+=
     
 }
 //Throws Expection: Indica que o método ao ser utilizado
 // Poderá gerar uma exceção
-===============================================
+=
 public double divir(int dividendo, int divisor) Throws Expection{
 
 }
