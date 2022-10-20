@@ -4,7 +4,6 @@ public class TiposEvariaveisAula2 {
         int numero = 5;
         numero = 10;
         System.out.println(numero);
-
     
 }
 }
