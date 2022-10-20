@@ -5,7 +5,7 @@ public class operadoresAula01 {
         //Concatenando duas variaveis.
         String nomeCompleto = "Glayson" + "Java";
         System.out.println(nomeCompleto);
-        System.out.println();
+        
 
         
         }
