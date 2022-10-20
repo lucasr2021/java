@@ -1,2 +1,2 @@
 ## Class Smart TV
-Exercicio do curso de sesenvolvimento em java da Dio
+Exercicio do curso de desenvolvimento em java da Dio
