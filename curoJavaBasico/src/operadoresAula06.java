@@ -1,4 +1,6 @@
-public   public static void main(String[] args){
+
+public class operadoresAula06 {
+public static void main(String[] args){
     //Operadores logicos
    boolean condicao1 = true;
    boolean condiao2 = false;
@@ -10,8 +12,4 @@ public   public static void main(String[] args){
    }
    System.out.println("Fim !");
 }
-}
-
-{
-    
 }

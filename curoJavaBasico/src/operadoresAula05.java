@@ -4,7 +4,7 @@ public class operadoresAula05 {
         int numero2 = 2;
 
         boolean simNao = numero1 == numero2;
-        System.out.println("Numero 1 é igual numero 2? " +simNao);
+        System.out.println("Numero 1 é igual numero 2?" +simNao);
 
         simNao = numero1 != numero2;
         System.out.println("Numero 1 é diferente ou igual numero 2? " +simNao);
