@@ -9,7 +9,7 @@ public class operadoresAula06 {
        if(condicao1 || condiao2){
         System.out.println("Uma das condições é verdadeira");
        }
-       System.out.println("Fim");
+       System.out.println("Fim.");
 }
 }
     
