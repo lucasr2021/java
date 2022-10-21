@@ -12,5 +12,13 @@ documentação oficial da linguagem e dos frameworks que são imcprporado nos
 projetos atuais.
 aqui temos o link da documentação de uma das pricipais classes da 
 linguagem java.
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg)(https://docs.oracle.com/javase/10/docs/api/java/lang/String.html) "San Juan Mountains")
+
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="https://docs.oracle.com/javase/10/docs/api/java/lang/String.html>
+  </iframe>
+</div>
 
