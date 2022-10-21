@@ -1,8 +1,10 @@
 public class SmartTv{
+    
     //atributos da classe Smart TV
     boolean ligado = false;
     int canal = 1;
     int volume = 25;
+
     //métodos de manipulação do estado da classe smart TV
     /*****************************************************/
      //Metodo mudar canal na Smart tv
