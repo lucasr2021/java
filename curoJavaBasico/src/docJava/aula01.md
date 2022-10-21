@@ -13,7 +13,7 @@ projetos atuais.
 aqui temos o link da documentação de uma das pricipais classes da 
 linguagem java.
 
-[!][def] 
+[https://docs.oracle.com/javase/8/docs/api/java/lang/String.html][def] 
 
 
 [def]: https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
