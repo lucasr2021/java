@@ -13,8 +13,5 @@ projetos atuais.
 aqui temos o link da documentação de uma das pricipais classes da 
 linguagem java.
 
-<div class="iframe_container">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/E-ONNjFoOx0" frameborder="0" allowfullscreen></iframe>
-</div>
-
+[Java SE 19 & JDK 19] (build 6) 
 
