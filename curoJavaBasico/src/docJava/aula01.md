@@ -24,6 +24,4 @@ linguagem? java documentation é composta por  tags que representam dados
 relevantes para comprenesão da proposta de uma de uma classe e o conjuto 
 deseus métodos e atributos conforme a tabela abaixo
 
-[Tags Java][def]
-
-[def]: (https://drive.google.com/file/d/1VDspbA-HV2JRlgAoGiqfers5uklNQ7Ji/view?usp=sharing)
+[](https://4.bp.blogspot.com/-VbWj_d4yB6s/XCdz58cV_JI/AAAAAAAAFPs/BDCCJaRGJMMMLJteNZmtpYUT6GRRuoaPACLcBGAs/s1600/java-documentation-comments.PNG S)
