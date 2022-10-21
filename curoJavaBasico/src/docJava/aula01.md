@@ -25,3 +25,5 @@ relevantes para comprenesão da proposta de uma de uma classe e o conjuto
 deseus métodos e atributos conforme a tabela abaixo
 
 ![Tags java](https://miro.medium.com/max/720/1*pXRt6mS2TM56xHrU7uCdvQ.png )
+
+[] (https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/String.html)
