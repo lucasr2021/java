@@ -18,7 +18,7 @@ linguagem java.
       title="Inline Frame Example"
       width="300"
       height="200"
-      src="https://docs.oracle.com/javase/10/docs/api/java/lang/String.html>
+      src="https://docs.oracle.com/javase/10/docs/api/java/lang/String.html">
   </iframe>
 </div>
 
