@@ -17,3 +17,11 @@ linguagem java.
 
 
 [def]: https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+# Tags
+Mas quais as informações que obtemaos através de classes documentadas na
+linguagem? java documentation é composta por  tags que representam dados
+relevantes para comprenesão da proposta de uma de uma classe e o conjuto 
+deseus métodos e atributos conforme a tabela abaixo
+
+image.png
