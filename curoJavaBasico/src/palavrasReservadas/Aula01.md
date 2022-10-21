@@ -4,4 +4,7 @@ para nomear variáveis, classes, métodos ou atributos.
 A linguagem java possui 52 palavras reservadas. Toda as palavras são classificadas  em grupos e ecritas em letras minúsculas
 sendo indentificado com uma cor especial pela maioria das IDE´s. Abaixo temos uma lista de palavras agrupadas por sua finalidade.
 # palavras reservadas
-image.png
+| abstract  | Verduras | Legumes |
+| :---    | :----    | :---    |
+| assert    | Agrião   | Cenoura |
+| boolean    | Brócolis | Ervilha |
