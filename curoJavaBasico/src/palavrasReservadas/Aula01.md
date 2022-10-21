@@ -7,3 +7,11 @@ sendo indentificado com uma cor especial pela maioria das IDE´s. Abaixo temos u
 
 ![image](https://user-images.githubusercontent.com/115570591/197247678-2321c90c-1fa0-4fd9-87ae-985e009dbae9.png)
 
+### Controle de  pacotes
+- import: importapacotes ou classes para dentro do código.
+- package: especifica a que pacote todas as classes de 
+um arquivo pertence
+### Modificadores de acesso
+- public: acesso de qualqur classe
+- private: acesso somente dentro da classe
+- protected: acesso por classe no mesmo pacote e subclasses
